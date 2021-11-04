@@ -213,3 +213,4 @@ model.load_state_dict(torch.load('data_volume/finetuned_BERT_epoch_1.model', map
 _, predictions, true_vals = evaluate(dataloader_validation)
 accuracy_per_class(predictions, true_vals)
 print(confusion_matrix(true_vals, predictions))
+#accuracy_score(true_vals, predictions)
