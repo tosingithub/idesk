@@ -20,7 +20,7 @@
 *.jar
 *.rar
 *.tar
-*.zip
+zip
 
 # Logs and databases #
 ######################
@@ -46,3 +46,4 @@ lib/**
 models/**
 share/**
 data_volume/**
+corpus/**
