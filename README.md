@@ -3,6 +3,7 @@
 
 Please, cite using the Bibtex below, if you use any of the resources. Thanks
 
+<pre><code>
 @inproceedings{adewumi2021potential,
     title = "Potential Idiomatic Expression (PIE)-English: Corpus for Classes of Idioms",
     author = "Adewumi, Tosin and Vadoodi, Roshanak and Tripathy, Aparajita and Nikolaidou, Konstantina and Liwicki, Foteini and Liwicki, Marcus",
@@ -13,3 +14,5 @@ Please, cite using the Bibtex below, if you use any of the resources. Thanks
     publisher = "European Language Resources Association (ELRA)",
     url = "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.72.pdf",
 }
+</code></pre>
+
